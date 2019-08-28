@@ -848,6 +848,10 @@ html {
 .mbr-figure--no-bg {
   background: none;
 }
+.mbr-figure--low-width {
+  display: block;
+  width: 100%;
+}
 .mbr-figure--full-width {
   display: block;
   width: 100%;
