@@ -1,3 +1,3 @@
-<meta http-equiv="refresh" content="0; url='http://mida-project.github.io/uta7-statistical-analysis-charts/src/index.html'" />
+<meta http-equiv="refresh" content="0; url='https://opprDev.github.io/art-jac'" />
 
 # Academic Responsive Page
