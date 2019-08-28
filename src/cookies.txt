@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-cs.adelaide.edu.au	TRUE	/	FALSE	1999999999	ns-uni-www	ffffffff09ee131a45525d5f4f58455e445a4a423661
-
